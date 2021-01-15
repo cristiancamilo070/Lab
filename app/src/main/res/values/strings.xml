@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="descripcion">Escribe tu mensaje</string>
+    <string name="Mensaje">Mensaje</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="MensajeR" />
+
+
+</resources>
